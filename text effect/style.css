@@ -1,0 +1,12 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    overflow: hidden;
+    margin:0;
+    background: darksalmon;
+    /* color:Ste; */
+}
